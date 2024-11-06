@@ -1,9 +1,0 @@
-.:1053 {
-    errors
-	cname
-    debug
-    health
-    log
-    cache 30
-	forward . 8.8.8.8
-}
